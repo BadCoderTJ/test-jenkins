@@ -13,6 +13,6 @@ public class TEstcontroller {
 
     @GetMapping("/test")
     public String test() {
-        return "test";
+        return "test——github";
     }
 }
