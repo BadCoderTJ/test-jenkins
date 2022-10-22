@@ -7,4 +7,7 @@ package com.example.demojenkins.controller;
  */
 public class Test {
 
+    public static void main(String[] args) {
+
+    }
 }
